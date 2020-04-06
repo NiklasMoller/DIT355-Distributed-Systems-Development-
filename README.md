@@ -27,7 +27,7 @@ Developed as distributed system as part of *DIT-355 Mini Project : Distributed S
 - [Emanuel Dellsén](https://github.com/EmanuelDellsen)
 - [Karl Westgårdh](https://github.com/KarlWestgardh)
 - [Adam Klevfors](https://github.com/AdamKlevfors)
-- [Hannes Ringblom]()
+- [Hannes Ringblom](https://github.com/hannezHR)
 
 
 ## Software Architecture
