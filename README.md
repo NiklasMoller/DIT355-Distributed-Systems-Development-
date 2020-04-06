@@ -10,7 +10,7 @@ A data-driven and browser-based application to visualize, understand and plan fo
 To help city planners gain insights about the potential improvements of public transportation, based on travel requests.
 
 ## How?
-The visualiser recieves real-time travel requests over the MQTT-protocol..</a>
+The visualiser recieves real-time travel requests over the MQTT-protocol.
 
 <img src="./readme_files/data_driven_mode.gif" width="500"><br>
 *Travel requests with origin- and destinationpoint received in real time*
@@ -23,17 +23,22 @@ The visualiser recieves real-time travel requests over the MQTT-protocol..</a>
 Developed as distributed system as part of *DIT-355 Mini Project : Distributed Systems Development* at Software Engineering and Management, Gothenburg University 2019 - 2020.
 
 ## Developers
-* Emanuel Dellsén
-* Hannes Ringblom
-* Adam Klevfors
-* Niklas Möller
-* Karl Westgårdh
+- [Niklas Möller](https://github.com/NiklasMoller)
+- [Emanuel Dellsén](https://github.com/EmanuelDellsen)
+- [Karl Westgårdh](https://github.com/KarlWestgardh)
+- [Adam Klevfors](https://github.com/AdamKlevfors)
+- [Hannes Ringblom]()
 
-##Software Architecture
-<img src="./documentation--group-5/SAD/ComponentDiagramConceptual.png" width="500"><br>
+
+## Software Architecture
+
+<img src="./documentation---group-5/SAD/ComponentDiagramConceptual.png" width="1000"><br>
+*Conceptual Component Diagram*
 <br>
-<img src="./documentation--group-5/SAD/DeploymentDiagram.png" width="500"><br>
-
+<br>
+<br>
+<img src="./documentation---group-5/SAD/DeploymentDiagram.png" width="1000"><br>
+*Deployment Diagram*
 
 ## Setup and running
 
