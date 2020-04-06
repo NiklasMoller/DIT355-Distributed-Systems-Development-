@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route_type": 3,
+        "route_name": "Buss 306"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            "11.7542424",
+            "57.9220663"
+          ],
+          [
+            "11.7575277",
+            "57.9193549"
+          ],
+          [
+            "11.7621612",
+            "57.9200484"
+          ],
+          [
+            "11.9712459",
+            "57.8828946"
+          ]
+        ]
+      }
+    }
+  ]
+}

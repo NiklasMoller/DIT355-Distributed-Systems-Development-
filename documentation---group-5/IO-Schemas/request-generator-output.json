@@ -1,0 +1,18 @@
+{
+    "list":[{ 
+      "_comment" : "Output for RequestGenerator",
+      "topic to publish under": "json/newData",
+            "deviceId": "randomId",
+            "requestId": "randomId",
+            "origin":{
+            "latitude":"latitude",
+            "longitude":"longitude"
+            },
+            "destination":{
+            "latitude":"latitude",
+            "longitude":"longitude"
+            },
+            "timeOfDeparture":"YYYY-MM-DD HH:MM",
+            "purpose":"purpose"
+    }]
+}    

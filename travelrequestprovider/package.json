@@ -1,0 +1,23 @@
+{
+  "name": "travelrequestprovider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publisher.js",
+  "dependencies": {
+    "ansi-cyan": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "mqtt": "^3.0.0",
+    "random-date-generator": "^1.0.2",
+    "readline-ui": "^2.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.ita.chalmers.se/courses/dit355/2019/group-5/travelrequestprovider.git"
+  },
+  "author": "Kingblom",
+  "license": "ISC"
+}

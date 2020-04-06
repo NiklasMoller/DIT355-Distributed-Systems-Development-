@@ -1,0 +1,19 @@
+{
+  "name": "validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validator.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.ita.chalmers.se:courses/dit355/2019/group-5/validator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mqtt": "^3.0.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "_comment": "Output",
+    "topic to publish under": "json/validData",
+    "deviceId": "randomId",
+        "requestId": "randomId",
+        "origin":{
+        "latitude":"latitude",
+        "longitude":"longitude"
+        },
+        "destination":{
+        "latitude":"latitude",
+        "longitude":"longitude"
+        },
+        "timeOfDeparture":"YYYY-MM-DD HH:MM",
+        "purpose":"purpose"
+        }
+    }
+}

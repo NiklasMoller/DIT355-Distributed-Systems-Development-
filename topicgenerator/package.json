@@ -1,0 +1,20 @@
+{
+  "name": "topicgenerator",
+  "version": "1.0.0",
+  "description": "Recieves a MQTT message and re-publish it with a customized topic ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.ita.chalmers.se:courses/dit355/2019/group-5/topicgenerator.git"
+  },
+  "author": "Niklas Möller",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mqtt": "^3.0.0",
+    "weeknumber": "^1.1.2"
+  }
+}
